@@ -15,7 +15,7 @@ options.addArguments("--window-size=1920x1080");
 options.addArguments("--disable-dev-shm-usage");
 options.addArguments("--no-sandbox");
 options.addArguments("--remote-debugging-port=9222");
-options.addArguments("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537");
+options.addArguments("--user-agent=Mozilla/5.0 (Wayland; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.137 Safari/537.36 Ubuntu/22.04 (5.0.2497.35-1) Vivaldi/5.0.2497.35");
 options.addArguments("--disable-blink-features");
 options.addArguments("--disable-blink-features=AutomationControlled");
 let driver = new Builder().forBrowser("chrome").setChromeOptions(options).build();
@@ -447,7 +447,7 @@ async function getTopAddress(lpaddress) {
     while ((match = regexPattern.exec(data)) !== null) {
       matches.push(match[0]);
 
-      if (matches.length === 100) {
+      if (matches.length === 30) {
         break;
       }
     }

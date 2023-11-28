@@ -4,7 +4,7 @@ require('events').EventEmitter.defaultMaxListeners = 15;
 
 async function start() {
   prepareData();
-  cron.schedule('*/30 * * * *', () => {
+  cron.schedule('*/120 * * * *', () => {
     prepareData();
   });
 }

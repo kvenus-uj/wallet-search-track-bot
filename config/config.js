@@ -11,9 +11,8 @@ const subgraph = {
 };
 
 module.exports = {
-  tg_api: "6541860767:AAHi65eyMtImEfTQQAgGkvBdJW-MJTW4qOY",
-  chat_id: -1002053285892, //4085571318,
-  // chat_id: -4072982727, //4085571318,
+  tg_api: "6878353105:AAHYQ9ufibzvLRnf1vWr9SOx8Q0WvvGbFaQ",
+  chat_id: -4072982727, //4085571318,
   morails_key:
     "3pPLbAJU77QC0ASflpRvGVCWEjHNSCpwT3k7OtrhSMo2iYo4Y2GykSLtQtlyfBYO",
   duneapikey: "umYKvUbhI4m7xCJMFmj7qQo0QNvozglu",

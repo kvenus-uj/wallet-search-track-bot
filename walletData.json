@@ -1,57 +1,273 @@
 [
     {
+        "address": "0x7A0956832C63A8d4982716287fABD6e141686281",
+        "top_rate": 4,
+        "token_name": "MUNGER",
+        "token_address": "0x55eb5823ab84ec1706f1a6964439989718d54f7f",
+        "profit_rate": 0,
+        "reason": " Average profit is $1838.75, Win rate is 100.00%"
+    },
+    {
+        "address": "0x3ef2002fcADaB075E96Cb041f3Adf32cc0fa273F",
+        "top_rate": 12,
+        "token_name": "MUNGER",
+        "token_address": "0x55eb5823ab84ec1706f1a6964439989718d54f7f",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x85CFd51c8cC004EF8F197c83258eAFaEf7AEdAbE",
+        "top_rate": 5,
+        "token_name": "Q",
+        "token_address": "0xfbbfad72c17aef4a9e1422873926f760f59c90b6",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x87C39C5bD27f3568B0d7d58f00A5E2238dAe5cc8",
+        "top_rate": 24,
+        "token_name": "Q",
+        "token_address": "0xfbbfad72c17aef4a9e1422873926f760f59c90b6",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xb7ECc16DeE5870De23E62cf8D920cCEb37d45a13",
+        "top_rate": 25,
+        "token_name": "Q",
+        "token_address": "0xfbbfad72c17aef4a9e1422873926f760f59c90b6",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xDF3A9f55704E4dEddF0108B17E0078d05Dabc7A3",
+        "top_rate": 24,
+        "token_name": "Q",
+        "token_address": "0x7744a4167b319be20a68ab8a49ef12f70b69fa8a",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xB2CFc313828195bCD952329FfE429712271090E2",
+        "top_rate": 1,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Average profit is $6128.33, Win rate is 100.00%"
+    },
+    {
+        "address": "0x05B81e93Ede37e7eAf35b5C37a2D398Fc99cb7f3",
+        "top_rate": 2,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Average profit is $9795.76, Win rate is 100.00%"
+    },
+    {
+        "address": "0xd0a78638CF9363eb18df3b3B37623aD13188D5E2",
+        "top_rate": 3,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x68b15b7061Cd6F85f4449912075420dF27B99F60",
+        "top_rate": 4,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Average profit is $5664.55, Win rate is 100.00%"
+    },
+    {
+        "address": "0x915ECFb5A0aC07f4F57181891E3CEDff909b484E",
+        "top_rate": 6,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x9004B140D612ADa37aC117c911c9585C9DF40E48",
+        "top_rate": 7,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xA806C2f400E4aC10cd9227f7BDA67270df4B605e",
+        "top_rate": 9,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x415fED912837c707EfcB4f0a5C51b8Bf9A86307f",
+        "top_rate": 10,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xb06358fEde3E6f0Def4501fd1BAafd67C67FAa14",
+        "top_rate": 12,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x84171Cc5E7f19caEC8Ee198ef65249103e213072",
+        "top_rate": 13,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x57B209e5f2C0570f5f7c2bEfF3d32f08a2187df6",
+        "top_rate": 14,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xC67FBd2C6Daa7474681166940Ac981d1349ff993",
+        "top_rate": 18,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x865748da0F4cD8b94323d90b8e31B55072807BfC",
+        "top_rate": 19,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x4F2bE953D61e72f13e3c0c4cB5658e7e4cdf6a5c",
+        "top_rate": 21,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x54DC79ab52958665C8B15520ad992470EA123b6A",
+        "top_rate": 22,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x89fC1F194A17eCf9fb3A2C9F6dB76B659f5B254F",
+        "top_rate": 23,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xAFf8E17FB30DDf45Ae2b009071BF325e5eC071F1",
+        "top_rate": 25,
+        "token_name": "PIDOGE",
+        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
         "address": "0xBcf00b7169092BaeE4CCe5B875a64C294163D0d2",
         "top_rate": 1,
+        "token_name": "Griggo",
+        "token_address": "0x87cae1f04de1994aed18b5610cbd6781b53da312",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is 3426.50%"
+    },
+    {
+        "address": "0x39c53A86D88dE7361A740e13bb1Ce21670e56bA1",
+        "top_rate": 2,
+        "token_name": "Griggo",
+        "token_address": "0x87cae1f04de1994aed18b5610cbd6781b53da312",
+        "profit_rate": 0,
+        "reason": " Average profit is $2594.80, Win rate is 100.00%"
+    },
+    {
+        "address": "0xb70E09b198eEEFc4De790Ec9019e46791ed4306D",
+        "top_rate": 4,
         "token_name": "Griggo",
         "token_address": "0x87cae1f04de1994aed18b5610cbd6781b53da312",
         "profit_rate": 0,
         "reason": " Win rate is 100.00%"
     },
     {
-        "address": "0x462C178a5Db50F5939c0dE17D9b893C3f26F0000",
-        "top_rate": 2,
-        "token_name": "E/ACC",
-        "token_address": "0xc03d38f89b175596859c99eab231d31e1808358c",
+        "address": "0xAE3385Fe73383d850d42f5e9557525bE9A4201C4",
+        "top_rate": 20,
+        "token_name": "Griggo",
+        "token_address": "0x87cae1f04de1994aed18b5610cbd6781b53da312",
         "profit_rate": 0,
         "reason": " Win rate is 100.00%"
     },
     {
-        "address": "0x19C7fe2135D83B4aC22f0632379198a99582e2cC",
-        "top_rate": 10,
-        "token_name": "E/ACC",
-        "token_address": "0xc03d38f89b175596859c99eab231d31e1808358c",
+        "address": "0xBe543810E617BF5125e6B385f82f31C5e7Db1073",
+        "top_rate": 22,
+        "token_name": "Griggo",
+        "token_address": "0x87cae1f04de1994aed18b5610cbd6781b53da312",
         "profit_rate": 0,
         "reason": " Win rate is 100.00%"
     },
     {
-        "address": "0xc68Bff79073939C96C8eDb1c539b5362Be1F64d1",
+        "address": "0x8cDEb8E1B66c417fD3B6E2C595E3f646A0cffB6b",
+        "top_rate": 1,
+        "token_name": "D/ACC",
+        "token_address": "0x04885ab082ee0770359a3439c08d738d4ecb361f",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x0e5462B7fab4D46107311440FE6B9d6F41bA3F54",
         "top_rate": 3,
         "token_name": "D/ACC",
-        "token_address": "0x81db1949d0e888557bc632f7c0f6698b1f8c9106",
-        "profit_rate": 0,
-        "reason": " Average profit is $2923.66, Win rate is 100.00%"
-    },
-    {
-        "address": "0x390cc19Bf66AFEa48061129b7e87e665459e606C",
-        "top_rate": 7,
-        "token_name": "D/ACC",
-        "token_address": "0x81db1949d0e888557bc632f7c0f6698b1f8c9106",
-        "profit_rate": 0,
-        "reason": " Average profit is $1568.43, Win rate is 100.00%"
-    },
-    {
-        "address": "0xc91b305BDAda989580a3b95722263cf3Ab0D38bB",
-        "top_rate": 8,
-        "token_name": "D/ACC",
-        "token_address": "0x81db1949d0e888557bc632f7c0f6698b1f8c9106",
+        "token_address": "0x04885ab082ee0770359a3439c08d738d4ecb361f",
         "profit_rate": 0,
         "reason": " Win rate is 100.00%"
     },
     {
-        "address": "0xe28638E114A19740E80569769A0C9f326A4BF1E4",
-        "top_rate": 9,
+        "address": "0x75E58c779080DfE59F90dc92E4D33e5BF420A548",
+        "top_rate": 4,
         "token_name": "D/ACC",
-        "token_address": "0x81db1949d0e888557bc632f7c0f6698b1f8c9106",
+        "token_address": "0x04885ab082ee0770359a3439c08d738d4ecb361f",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x980b9809852094AA6D10A11DAcA977b3D62CeAD3",
+        "top_rate": 6,
+        "token_name": "D/ACC",
+        "token_address": "0x04885ab082ee0770359a3439c08d738d4ecb361f",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x497c415560852A1c10806227495Ae4cD4E838fF1",
+        "top_rate": 22,
+        "token_name": "D/ACC",
+        "token_address": "0x04885ab082ee0770359a3439c08d738d4ecb361f",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xe29714c98E6B290CB5DEA2d1c26a2BAaC6711A54",
+        "top_rate": 23,
+        "token_name": "D/ACC",
+        "token_address": "0x04885ab082ee0770359a3439c08d738d4ecb361f",
         "profit_rate": 0,
         "reason": " Win rate is 100.00%"
     },
@@ -96,194 +312,42 @@
         "reason": " Win rate is 100.00%"
     },
     {
-        "address": "0x0000000000d3e910C999cFA4a016EaAFe9FCb604",
-        "top_rate": 8,
-        "token_name": "D/ACC",
-        "token_address": "0x81db1949d0e888557bc632f7c0f6698b1f8c9106",
-        "profit_rate": 0,
-        "reason": " Win rate is 80.00%"
-    },
-    {
-        "address": "0x8cDEb8E1B66c417fD3B6E2C595E3f646A0cffB6b",
-        "top_rate": 1,
-        "token_name": "D/ACC",
-        "token_address": "0x04885ab082ee0770359a3439c08d738d4ecb361f",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x0e5462B7fab4D46107311440FE6B9d6F41bA3F54",
-        "top_rate": 3,
-        "token_name": "D/ACC",
-        "token_address": "0x04885ab082ee0770359a3439c08d738d4ecb361f",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x75E58c779080DfE59F90dc92E4D33e5BF420A548",
-        "top_rate": 4,
-        "token_name": "D/ACC",
-        "token_address": "0x04885ab082ee0770359a3439c08d738d4ecb361f",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x980b9809852094AA6D10A11DAcA977b3D62CeAD3",
-        "top_rate": 6,
-        "token_name": "D/ACC",
-        "token_address": "0x04885ab082ee0770359a3439c08d738d4ecb361f",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0xd0a78638CF9363eb18df3b3B37623aD13188D5E2",
-        "top_rate": 1,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x915ECFb5A0aC07f4F57181891E3CEDff909b484E",
-        "top_rate": 3,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x1C68db55f9554A0EBdf44acC2B8DDfC37fba7f88",
-        "top_rate": 7,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x865748da0F4cD8b94323d90b8e31B55072807BfC",
-        "top_rate": 8,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x54DC79ab52958665C8B15520ad992470EA123b6A",
-        "top_rate": 10,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0xb06358fEde3E6f0Def4501fd1BAafd67C67FAa14",
-        "top_rate": 6,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x68b15b7061Cd6F85f4449912075420dF27B99F60",
-        "top_rate": 2,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Average profit is $5664.55, Win rate is 100.00%"
-    },
-    {
-        "address": "0xA806C2f400E4aC10cd9227f7BDA67270df4B605e",
-        "top_rate": 6,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0xb9c79CF01dfD47250f1885E25A1F3ad460363b91",
-        "top_rate": 8,
-        "token_name": "ADORA",
-        "token_address": "0xcf7fb68a0ac8e805280527dfd8d826a739785ebb",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0xBDa9b983B50e56d7Eec43E5bf8803D1b4f53652b",
-        "top_rate": 1,
-        "token_name": "EMU",
-        "token_address": "0x0a713f98573d02120d4af879aed6ed614d242368",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0xE7f6aA6d2ac9827E48d872acb31E6899Dc5F1564",
-        "top_rate": 5,
-        "token_name": "EMU",
-        "token_address": "0x0a713f98573d02120d4af879aed6ed614d242368",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0xF211a4274b4F56990BbF180a8bb4F1D677C2cC72",
-        "top_rate": 7,
-        "token_name": "EMU",
-        "token_address": "0x0a713f98573d02120d4af879aed6ed614d242368",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x0D260D8aD1CCAe73f0d53BE60Ff6Aa6ed94A01FC",
-        "top_rate": 8,
-        "token_name": "EMU",
-        "token_address": "0x0a713f98573d02120d4af879aed6ed614d242368",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x41B56FDA90aAdfC70Aa5FC4a9a8e78764077e4eE",
-        "top_rate": 9,
-        "token_name": "EMU",
-        "token_address": "0x0a713f98573d02120d4af879aed6ed614d242368",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x9004B140D612ADa37aC117c911c9585C9DF40E48",
-        "top_rate": 5,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0x415fED912837c707EfcB4f0a5C51b8Bf9A86307f",
-        "top_rate": 8,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0xB2CFc313828195bCD952329FfE429712271090E2",
-        "top_rate": 1,
-        "token_name": "PIDOGE",
-        "token_address": "0x8d95106edb2cf963097b1ed0fb2f735223390a07",
-        "profit_rate": 0,
-        "reason": " Average profit is $11929.22, Win rate is 100.00%"
-    },
-    {
-        "address": "0xD87E46b6fEf0Ca0a2DE9116D78320e57994aD12C",
-        "top_rate": 6,
+        "address": "0x2ba079c2f4b0BD39d67665C1Ba6040f7F393Be4c",
+        "top_rate": 11,
         "token_name": "E/ACC",
-        "token_address": "0xc03d38f89b175596859c99eab231d31e1808358c",
+        "token_address": "0xd99e450c646d8771f1c4c7b4f68e595486a12252",
         "profit_rate": 0,
         "reason": " Win rate is 100.00%"
     },
     {
-        "address": "0x48c25eDa7bC08B07A12C64feeE2997091D4b1524",
-        "top_rate": 3,
-        "token_name": "EMU",
-        "token_address": "0x0a713f98573d02120d4af879aed6ed614d242368",
+        "address": "0x42Dc71E0795049C555D2061FcFB54a9Bc34E7d12",
+        "top_rate": 14,
+        "token_name": "E/ACC",
+        "token_address": "0xd99e450c646d8771f1c4c7b4f68e595486a12252",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x12c539055d9a4f43862B7814784C47b668b02d77",
+        "top_rate": 19,
+        "token_name": "E/ACC",
+        "token_address": "0xd99e450c646d8771f1c4c7b4f68e595486a12252",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xb1e3Ec0E6540A086c72f860C1EBc5AF03F9529b1",
+        "top_rate": 23,
+        "token_name": "E/ACC",
+        "token_address": "0xd99e450c646d8771f1c4c7b4f68e595486a12252",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xaFa4E20D80e528f3983815afC478c590Fe489197",
+        "top_rate": 24,
+        "token_name": "E/ACC",
+        "token_address": "0xd99e450c646d8771f1c4c7b4f68e595486a12252",
         "profit_rate": 0,
         "reason": " Win rate is 100.00%"
     }
